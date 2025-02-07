@@ -1,11 +1,11 @@
 # Phishing para captura de senhas do Facebook
 
-### Ferramentas
+### Ferramentas usadas
 
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### Configurando o Phishing no terminal do Kali Linux
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -18,4 +18,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Texto Alternativo](./img.png)
+
+
